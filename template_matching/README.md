@@ -13,4 +13,4 @@
 ##  --template-matching
 
 -------
-## 4.[运行结果](\结果.png)
+## 4.[运行结果](https://github.com/gxm-hub/Pattern-recognition/blob/master/template_matching/%E7%BB%93%E6%9E%9C.png)
